@@ -8,7 +8,7 @@ Here is the tutorial of how to
 # 1.Go to https://trello.com/signup 
 # 2.Click "Continue with google"
 # 3.Use vardan.workzone@gmail.com account
-# 4.Done, now you can find your tasks and start working.
+# 4.Done, now you can find your tasks and start working. Also you will see the needed information.
 # Github account
 # login.vardanworkzone
 # password.The password I gave you
